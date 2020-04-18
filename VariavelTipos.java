@@ -17,7 +17,7 @@ public class VariavelTipos {
         float e;   //Variável flutuante - Tamanho: 4 bytes/ 32 bits
         double f;  //Variável double    - Tamanho: 8 bytes/ 64 bits
         
-        char g[];  //Variável carácter  - Tamanho: 2 bytes/ 16 bits
+        char g[] = new char[20]; //Variável carácter  - Tamanho: 2 bytes/ 16 bits
         
         boolean h; //Variável booleana (Variável lógica (verdadeiro/falso)))
                
