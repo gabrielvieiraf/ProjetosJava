@@ -26,7 +26,7 @@ public class Escrita {
        conseguimos o tamanho do vetor através de length.*/
        
        for (int i=0; i<g.length; i++)
-       		System.out.println(g[i]);
+           System.out.println(g[i]);
        
        //Imprime nome
        System.out.println(nome);
@@ -37,14 +37,14 @@ public class Escrita {
        até chegar ao início.*/
         
        for (int j=g.length-1; j>=0; j--)
-       		System.out.println(g[j]);
+           System.out.println(g[j]);
         
        //Pula linha
        System.out.println("\n");
         
        //Imprime nome ao contrário
        for(int k = nome.length()-1; k >= 0; k--)
-         System.out.print(nome.charAt(k)); 
+           System.out.print(nome.charAt(k)); 
 
     }   
 }
