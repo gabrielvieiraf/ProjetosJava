@@ -15,4 +15,6 @@ Feito por: Gabriel Vieira Flores 🤓
 depois de muito ☕☕☕
 </h4>
 
-### [Siga meu LinkedIn!](https://www.linkedin.com/in/gvieiraf/)
+<p align='center'>
+  <a href='https://www.linkedin.com/in/gvieiraf/'>Siga meu LinkedIn!</a>
+</p>
